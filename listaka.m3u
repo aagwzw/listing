@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sponsoring.fr/wp-content/uploads/2020/08/Eurosport-logo.jpg", EVENTO
+https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-72-37/kajuasakiii/1654543510/src/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sponsoring.fr/wp-content/uploads/2020/08/Eurosport-logo.jpg", Eurosport
 http://195.154.179.18:8000/play/a00e
 
