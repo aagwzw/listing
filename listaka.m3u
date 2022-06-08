@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sponsoring.fr/wp-content/uploads/2020/08/Eurosport-logo.jpg", EVENTO
-https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-72-37/kajuasakiii/1654543510/src/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.flamingtext.com/Word-Logos/evento-design-sketch-name.png", Evento del Momento
+http://45.92.69.203:1980/play/a01l
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg", M+ La Liga
+http://45.92.69.203:1980/play/a01l
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.socialcreator.com/srv/imgs/html/154415/04%20LA%20LIGA%201.png", M+ La Liga 1
+http://45.92.69.203:1980/play/a00j
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png", M+ La Liga 2
+http://45.92.69.203:1980/play/a05b
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sponsoring.fr/wp-content/uploads/2020/08/Eurosport-logo.jpg", Eurosport
 http://195.154.179.18:8000/play/a00e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png", Eurosport 2
+http://45.92.69.203:1980/play/a013
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg", Liga de Campeones
 http://45.92.69.203:1980/play/a04k
@@ -17,6 +29,9 @@ http://45.92.69.203:1980/play/a05h
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png", Liga de Campeones 3
 http://45.92.69.203:1980/play/a02v
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2021/03/dazn-f1-logo.jpg", Dazn F1 HD
+http://45.92.69.203:1980/play/a020
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ht4u.net/wp-content/uploads/2020/07/DAZN-Logo.png", Dazn 1 HD
 http://185.79.153.9:6500/play/a005
@@ -35,4 +50,19 @@ http://45.92.69.203:1980/play/a02e
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png", Movistar Deportes 1 HD
 http://45.92.69.203:1980/play/a021
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/640px-Movistar_Golf.svg.png", Movistar Golf HD
+http://45.92.69.203:1980/play/a021
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ravelodeporte.es/wp-content/uploads/2020/03/Logo-Teledeporte.png", TeleDeporte
+http://45.92.69.203:1980/play/a038
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2019/09/vamosndp.png", Vamos HD
+http://185.79.153.9:6500/play/a00j
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-86FBCD7B94-seeklogo.com.png", NBA TV HD
+http://89.114.126.46:4000/play/a00w
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-logo.jpg", ESPN
+http://45.181.121.57:8111/play/212
 
