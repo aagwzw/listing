@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.flamingtext.com/Word-Logos/evento-design-sketch-name.png", Evento del Momento
-https://s29.gamovideo.com:444/fjap5qudavn3hlszufv5x5alevxmqgvv2vmcwpgymiteefb62j3zm6i34wva/v.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.flamingtext.com/Word-Logos/evento-design-sketch-name.png", 24h Le Mans
+https://mn-nl-glb.mncdn.com/dlive/transcode-84-72/kajuasakiii/1654706943/src/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg", M+ La Liga
 http://45.92.69.203:1980/play/a01l
