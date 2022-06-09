@@ -66,5 +66,8 @@ http://89.114.126.46:4000/play/a00w
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-logo.jpg", ESPN
 http://45.181.121.57:8111/play/212
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png", Sport TV 1 
+http://89.114.126.46:4000/play/a003
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png", Sport TV 2 
 http://89.114.126.46:4000/play/a004
